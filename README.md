@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mari Balasurya K 👋
 
-<!--
-**zuryaa16/zuryaa16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence and Data Science Student  
+🤖 Interested in Generative AI, Agentic AI, and AI Automation  
+💡 Learning to build practical AI-powered solutions  
+🌱 Continuously improving my Python, Machine Learning, and problem-solving skills
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Smart Campus Placement Predictor** — A machine learning project for placement prediction.
+- **Train Delay Prediction** — A machine learning project for estimating train delays.
+- **AI Study Assistant** — A prototype exploring personalized learning, quiz-based assessment, and explainable AI.
+
+## 🛠️ Technologies I'm Learning
+
+- Python
+- Machine Learning
+- Generative AI and LLMs
+- Agentic AI
+- AI Automation
+- Streamlit
+
+## 🎯 My Goal
+
+To become an AI Engineer and develop useful, reliable AI applications that solve real-world problems.
+
+---
+
+*Learning, building, and growing one project at a time.* 🚀
