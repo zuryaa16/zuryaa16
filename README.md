@@ -2,28 +2,43 @@
 
 🎓 B.Tech Artificial Intelligence and Data Science Student  
 🤖 Interested in Generative AI, Agentic AI, and AI Automation  
-💡 Learning to build practical AI-powered solutions  
-🌱 Continuously improving my Python, Machine Learning, and problem-solving skills
+🐍 Learning Python, Machine Learning, and LLM-powered applications  
+🚀 Building practical AI projects and continuously improving my skills
 
-## 🚀 Projects
+## 🛠️ Skills & Technologies
 
-- **Smart Campus Placement Predictor** — A machine learning project for placement prediction.
-- **Train Delay Prediction** — A machine learning project for estimating train delays.
-- **AI Study Assistant** — A prototype exploring personalized learning, quiz-based assessment, and explainable AI.
+- **Programming:** Python
+- **Machine Learning:** Pandas, Scikit-learn, Model Evaluation
+- **AI:** Generative AI, LLMs, Prompt Engineering
+- **Application Development:** Streamlit
+- **Tools:** Git, GitHub
 
-## 🛠️ Technologies I'm Learning
+## 📌 Featured Projects
 
-- Python
-- Machine Learning
-- Generative AI and LLMs
-- Agentic AI
-- AI Automation
-- Streamlit
+### 1. Smart Campus Placement Predictor
+Machine learning project for predicting student placement outcomes.
 
-## 🎯 My Goal
+[View Project](https://github.com/zuryaa16/smart-campus-ai)
 
-To become an AI Engineer and develop useful, reliable AI applications that solve real-world problems.
+### 2. Train Delay Prediction
+Machine learning project focused on train delay prediction and model evaluation.
+
+[View Project](https://github.com/zuryaa16/Train-Delay-Prediction)
+
+### 3. Neuro Lift
+Explore my project and its current development progress.
+
+[View Project](https://github.com/zuryaa16/neuro-lift)
+
+## 🎯 Career Goal
+
+To become an AI Engineer and build useful AI-powered applications using Generative AI, Agentic AI, and automation.
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/mari-balasurya-k-118484411/)
+- [GitHub](https://github.com/zuryaa16)
 
 ---
 
-*Learning, building, and growing one project at a time.* 🚀
+*Always learning. Always building.* 🚀
